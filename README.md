@@ -18,6 +18,10 @@
 
 ---
 
+> “The best way to predict the future is to invent it.” — Alan Kay
+
+---
+
 ## 🧰 Tech Stack
 
 <p align="left">
@@ -28,6 +32,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
+
+---
+
+## 🛠 Skills Proficiency
+
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen)  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-80%25-blue)  
+![LangChain](https://img.shields.io/badge/LangChain-75%25-yellow)  
+![Gradio](https://img.shields.io/badge/Gradio-70%25-orange)  
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Link |
+|---|---|---|
+| [NeoDoc](https://github.com/KevinVargheseKV/NeoDoc) | AI Doctor Assistant with LangChain, Gemini API, and RAG | [Repo](https://github.com/KevinVargheseKV/NeoDoc) |
+| [TRACE](https://github.com/KevinVargheseKV/TRACE) | Traffic Response System for Ambulance Efficiency | [Repo](https://github.com/KevinVargheseKV/TRACE) |
 
 ---
 
