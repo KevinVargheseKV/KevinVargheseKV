@@ -37,7 +37,9 @@ Built a powerful LLM-powered PDF QA system using Gemini API + RAG architecture t
 Great hands-on experience with real-world AI document understanding!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6ZmpDtw3jPnpG/giphy.gif" width="300" />
+  <a href="https://github.com/KevinVargheseKV/lllm-test" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="LLM Animation" />
+  </a>
 </p>
 
 👉 [Check it out here](https://github.com/KevinVargheseKV/lllm-test)
@@ -57,4 +59,4 @@ Great hands-on experience with real-world AI document understanding!
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-varghese-063967340/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?style=for-the-badge&logo=github)](https://github.com/KevinVargheseKV)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?style=for-the-badge&logo=github)](https://github.com/KevinVargheseKV)  
