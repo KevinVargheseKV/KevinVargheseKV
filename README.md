@@ -36,12 +36,6 @@
 Built a powerful LLM-powered PDF QA system using Gemini API + RAG architecture that lets users ask questions on any PDF and get instant, precise answers.  
 Great hands-on experience with real-world AI document understanding!
 
-<p align="center">
-  <a href="https://github.com/KevinVargheseKV/lllm-test" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="LLM Animation" />
-  </a>
-</p>
-
 👉 [Check it out here](https://github.com/KevinVargheseKV/lllm-test)
 
 ---
