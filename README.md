@@ -6,10 +6,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KevinVargheseKV&label=Profile+Views&color=brightgreen" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -66,5 +62,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-varghese-063967340/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?style=for-the-badge&logo=github)](https://github.com/KevinVargheseKV)
-
----
