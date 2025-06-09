@@ -52,8 +52,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevinvarghese/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-varghese-063967340/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?style=for-the-badge&logo=github)](https://github.com/KevinVargheseKV)
 
 ---
-
