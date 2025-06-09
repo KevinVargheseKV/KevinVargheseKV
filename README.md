@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAB&center=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Kevin+Varghese!;AI%2FML+Engineer+%7C+LLM+Builder;Python+%7C+LangChain+%7C+RAG+%7C+Gradio" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
@@ -15,6 +11,10 @@
 - 🤝 Looking to collaborate on **AI/ML/LLM-based internships or open-source**  
 - 💬 Ask me about: **Python, C++, Java, SQL, LangChain, Gradio, Gemini API**  
 - ⚡ Fun fact: *I enjoy coding more than watching movies!*  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 ---
 
@@ -53,4 +53,4 @@ Great hands-on experience with real-world AI document understanding!
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-varghese-063967340/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?style=for-the-badge&logo=github)](https://github.com/KevinVargheseKV)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?style=for-the-badge&logo=github)](https://github.com/KevinVargheseKV)
