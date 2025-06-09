@@ -18,10 +18,6 @@
 
 ---
 
-> “The best way to predict the future is to invent it.” — Alan Kay
-
----
-
 ## 🧰 Tech Stack
 
 <p align="left">
@@ -35,21 +31,16 @@
 
 ---
 
-## 🛠 Skills Proficiency
+## 🚀 Recent Project
 
-![Python](https://img.shields.io/badge/Python-90%25-brightgreen)  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-80%25-blue)  
-![LangChain](https://img.shields.io/badge/LangChain-75%25-yellow)  
-![Gradio](https://img.shields.io/badge/Gradio-70%25-orange)  
+Built a powerful LLM-powered PDF QA system using Gemini API + RAG architecture that lets users ask questions on any PDF and get instant, precise answers.  
+Great hands-on experience with real-world AI document understanding!
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6ZmpDtw3jPnpG/giphy.gif" width="300" />
+</p>
 
-## 🚀 Featured Projects
-
-| Project | Description | Link |
-|---|---|---|
-| [NeoDoc](https://github.com/KevinVargheseKV/NeoDoc) | AI Doctor Assistant with LangChain, Gemini API, and RAG | [Repo](https://github.com/KevinVargheseKV/NeoDoc) |
-| [TRACE](https://github.com/KevinVargheseKV/TRACE) | Traffic Response System for Ambulance Efficiency | [Repo](https://github.com/KevinVargheseKV/TRACE) |
+👉 [Check it out here](https://github.com/KevinVargheseKV/lllm-test)
 
 ---
 
