@@ -6,6 +6,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KevinVargheseKV&label=Profile+Views&color=brightgreen" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🙋‍♂️ About Me
@@ -36,6 +40,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KevinVargheseKV&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVargheseKV&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinVargheseKV&theme=tokyonight" />
 </p>
 
 ---
