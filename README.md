@@ -31,12 +31,22 @@
 
 ---
 
-## 🚀 Recent Project
+## 🚀 Recent Projects
 
-Built a powerful LLM-powered PDF QA system using Gemini API + RAG architecture that lets users ask questions on any PDF and get instant, precise answers.  
-Great hands-on experience with real-world AI document understanding!
+### 📘 [CalmMind: A Mental Health Companion Chatbot](https://github.com/KevinVargheseKV/CalmMind)
 
-👉 [Check it out here](https://github.com/KevinVargheseKV/lllm-test)
+An empathetic AI-powered mental health assistant designed using **LangChain**, **Gemini API**, **Gradio**, and **RAG** on curated mental health PDFs.  
+It understands emotional tone, provides supportive responses, and suggests self-help exercises — all in a warm, human-like interface.
+
+> 🌱 CalmMind was created as part of a GenAI hackathon to address mental wellness using the power of Large Language Models (LLMs).  
+
+---
+
+### 📄 [LLM-Powered PDF QA System](https://github.com/KevinVargheseKV/lllm-test)
+
+A question-answering system built on **Gemini API + RAG**, allowing users to interact with any PDF document and get context-aware, accurate answers.
+
+> Perfect use-case of real-world AI + document intelligence!
 
 ---
 
