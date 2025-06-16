@@ -33,6 +33,12 @@
 
 ## 🚀 Recent Projects
 
+### 🤖 [NeoDoc: AI Doctor Chatbot](https://github.com/KevinVargheseKV/NeoDoc)
+
+An AI-powered doctor assistant that uses **LLMs**, **RAG**, and **Gemini API** to analyze symptoms and provide smart first-aid suggestions.
+
+---
+
 ### 📘 [CalmMind: A Mental Health Companion Chatbot](https://github.com/KevinVargheseKV/CalmMind)
 
 An empathetic AI-powered mental health assistant designed using **LangChain**, **Gemini API**, **Gradio**, and **RAG** on curated mental health PDFs.  
@@ -52,11 +58,11 @@ A question-answering system built on **Gemini API + RAG**, allowing users to int
 
 ## 🏷 Badges
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF6F61?style=for-the-badge&logo=gradio&logoColor=white)
-![GeminiAPI](https://img.shields.io/badge/Gemini_API-blue?style=for-the-badge)
-![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)  
+![Gradio](https://img.shields.io/badge/Gradio-FF6F61?style=for-the-badge&logo=gradio&logoColor=white)  
+![GeminiAPI](https://img.shields.io/badge/Gemini_API-blue?style=for-the-badge)  
+![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-brightgreen?style=for-the-badge)  
 
 ---
 
