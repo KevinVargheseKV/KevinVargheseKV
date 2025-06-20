@@ -18,13 +18,7 @@
 
 ---
 
-## 🎮 Pixel Dev Room
 
-<p align="center">
-  <img src="./pixel-art-room.png" width="80%" alt="Pixel Art Room" />
-</p>
-
----
 
 ## 🧰 Tech Stack
 
