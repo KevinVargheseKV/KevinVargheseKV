@@ -10,7 +10,6 @@
 - 🌱 Learning **RAG (Retrieval-Augmented Generation)**, **AI Algorithms**, and **LangChain**  
 - 🤝 Looking to collaborate on **AI/ML/LLM-based internships or open-source**  
 - 💬 Ask me about: **Python, C++, Java, SQL, LangChain, Gradio, Gemini API**  
-- ⚡ Fun fact: *I enjoy coding more than watching movies!*  
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
