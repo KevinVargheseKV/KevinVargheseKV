@@ -10,9 +10,18 @@
 - 🌱 Learning **RAG (Retrieval-Augmented Generation)**, **AI Algorithms**, and **LangChain**  
 - 🤝 Looking to collaborate on **AI/ML/LLM-based internships or open-source**  
 - 💬 Ask me about: **Python, C++, Java, SQL, LangChain, Gradio, Gemini API**  
+- ⚡ Fun fact: *I enjoy coding more than watching movies!*  
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+---
+
+## 🎮 Pixel Dev Room
+
+<p align="center">
+  <img src="./pixel-art-room.png" width="80%" alt="Pixel Art Room" />
 </p>
 
 ---
@@ -30,13 +39,15 @@
 
 ---
 
+
+
 ## 🏷 Badges
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)  
 ![Gradio](https://img.shields.io/badge/Gradio-FF6F61?style=for-the-badge&logo=gradio&logoColor=white)  
 ![GeminiAPI](https://img.shields.io/badge/Gemini_API-blue?style=for-the-badge)  
-![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-brightgreen?style=for-the-badge)  
+![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-brightgreen?style=for-the-badge)
 
 ---
 
@@ -44,3 +55,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-varghese-063967340/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?style=for-the-badge&logo=github)](https://github.com/KevinVargheseKV)
+
+---
+
+## 🐍 My Contributions Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinVargheseKV/KevinVargheseKV/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinVargheseKV/KevinVargheseKV/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/KevinVargheseKV/KevinVargheseKV/output/github-contribution-grid-snake.svg" />
+</picture>
