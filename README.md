@@ -31,31 +31,6 @@
 
 ---
 
-## 🚀 Recent Projects
-
-### 🤖 [NeoDoc: AI Doctor Chatbot](https://github.com/KevinVargheseKV/NeoDoc)
-
-An AI-powered doctor assistant that uses **LLMs**, **RAG**, and **Gemini API** to analyze symptoms and provide smart first-aid suggestions.
-
----
-
-### 📘 [CalmMind: A Mental Health Companion Chatbot](https://github.com/KevinVargheseKV/CalmMind)
-
-An empathetic AI-powered mental health assistant designed using **LangChain**, **Gemini API**, **Gradio**, and **RAG** on curated mental health PDFs.  
-It understands emotional tone, provides supportive responses, and suggests self-help exercises — all in a warm, human-like interface.
-
-> 🌱 CalmMind was created as part of a GenAI hackathon to address mental wellness using the power of Large Language Models (LLMs).  
-
----
-
-### 📄 [LLM-Powered PDF QA System](https://github.com/KevinVargheseKV/lllm-test)
-
-A question-answering system built on **Gemini API + RAG**, allowing users to interact with any PDF document and get context-aware, accurate answers.
-
-> Perfect use-case of real-world AI + document intelligence!
-
----
-
 ## 🏷 Badges
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
