@@ -76,7 +76,7 @@ My interest lies in building systems that can perceive their environment, learn 
 
 # THE PROJECT THAT DEFINES MY DIRECTION
 
-<img src="./assets/orthosis.jpg" width="100%" alt="AI-powered adaptive rehabilitation orthosis"/>
+<img src="./assets/orthosis.jpeg" width="100%" alt="AI-powered adaptive rehabilitation orthosis"/>
 
 </div>
 
@@ -117,7 +117,7 @@ The project combines motion sensing and temporal deep learning to explore person
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/viro.jpg" width="100%" alt="VIRO protein interaction visualization"/>
+<img src="./assets/viro.jpeg" width="100%" alt="VIRO protein interaction visualization"/>
 
 ### 002 / VIRO
 
