@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/kevin-varghese-063967340/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-080B16?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kevinvarghese429@gmail.com">
 <img src="https://img.shields.io/badge/CONTACT-LET'S%20TALK-080B16?style=for-the-badge&logo=gmail&logoColor=F472B6"/>
 </a>
 
@@ -76,7 +76,7 @@ My interest lies in building systems that can perceive their environment, learn 
 
 # THE PROJECT THAT DEFINES MY DIRECTION
 
-<img src="./assets/orthosis.png" width="100%" alt="AI-powered adaptive rehabilitation orthosis"/>
+<img src="./assets/orthosis.jpg" width="100%" alt="AI-powered adaptive rehabilitation orthosis"/>
 
 </div>
 
@@ -117,7 +117,7 @@ The project combines motion sensing and temporal deep learning to explore person
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/viro.png" width="100%" alt="VIRO protein interaction visualization"/>
+<img src="./assets/viro.jpg" width="100%" alt="VIRO protein interaction visualization"/>
 
 ### 002 / VIRO
 
