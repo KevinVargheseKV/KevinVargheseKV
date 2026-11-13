@@ -1,40 +1,36 @@
  <div align="center">
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  HERO / IDENTITY                -->
-<!-- ═══════════════════════════════════════════════ -->
+<!-- HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:030712,25:0B1735,55:312E81,80:164E63,100:06B6D4&text=KEVIN%20VARGHESE&fontColor=FFFFFF&fontSize=65&fontAlignY=42&desc=ARTIFICIAL%20INTELLIGENCE%20%20%2F%2F%20%20ROBOTICS%20%20%2F%2F%20%20RESEARCH&descSize=13&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="./assets/hero.png" width="100%" alt="Kevin Varghese - AI and Robotics"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=750&lines=Building+intelligence+that+interacts+with+reality.;Exploring+the+future+of+Embodied+AI.;From+machine+learning+to+intelligent+robotic+systems.;Think+%2F+Build+%2F+Experiment+%2F+Repeat." />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=750&lines=ARTIFICIAL+INTELLIGENCE+%2F+ROBOTICS;Building+intelligence+that+interacts+with+reality.;Exploring+the+future+of+Embodied+AI.;Think.+Build.+Experiment.+Repeat." />
 
 <br/>
 
 <a href="https://github.com/KevinVargheseKV">
-<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-080B16?style=for-the-badge&logo=github&logoColor=67E8F9"/>
 </a>
 <a href="https://www.linkedin.com/in/kevin-varghese-063967340/">
-<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-080B16?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
 </a>
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/CONTACT-050816?style=for-the-badge&logo=gmail&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/CONTACT-LET'S%20TALK-080B16?style=for-the-badge&logo=gmail&logoColor=F472B6"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KevinVargheseKV&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=KevinVargheseKV&style=flat-square&color=0891B2&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  INTRODUCTION                  -->
-<!-- ═══════════════════════════════════════════════ -->
-
 <div align="center">
 
-<sub>01 / THE PERSON BEHIND THE SYSTEMS</sub>
+<sub>01 — THE MIND BEHIND THE MACHINES</sub>
 
 # BEYOND THE SCREEN. INTO THE PHYSICAL WORLD.
 
@@ -44,27 +40,29 @@
 <tr>
 <td width="62%" valign="top">
 
-I'm **Kevin Varghese**, a Computer Science undergraduate at **Sree Chitra Thirunal College of Engineering, Trivandrum**.
+### Kevin Varghese
+
+Computer Science undergraduate at **Sree Chitra Thirunal College of Engineering, Trivandrum**.
 
 I explore the intersection of **Artificial Intelligence, Robotics and intelligent physical systems**.
 
-My focus is on developing systems that can perceive, learn, adapt and interact with the real world — transforming computational intelligence into practical engineering solutions.
+My interest lies in building systems that can perceive their environment, learn from data, adapt to changing conditions and interact meaningfully with the real world.
 
-**Currently exploring**
+**What drives my work**
 
-- Embodied AI and intelligent robotic systems
+- Embodied AI and intelligent robotics
 - Adaptive AI for healthcare and rehabilitation
 - Machine Learning and Computer Vision
 - Human–robot interaction and safe autonomy
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="38%" valign="middle" align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,opencv,arduino,linux,git,github&perline=2&theme=dark" />
 
 <br/><br/>
 
-<sub>ENGINEERING INTELLIGENCE</sub>
+<sub>THINK / ENGINEER / CREATE</sub>
 
 </td>
 </tr>
@@ -72,69 +70,46 @@ My focus is on developing systems that can perceive, learn, adapt and interact w
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                FEATURED PROJECT                -->
-<!-- ═══════════════════════════════════════════════ -->
-
 <div align="center">
 
-<sub>02 / FEATURED RESEARCH</sub>
+<sub>02 — FLAGSHIP RESEARCH</sub>
 
-# THE FLAGSHIP SYSTEM
+# THE PROJECT THAT DEFINES MY DIRECTION
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=155&color=0:030B18,40:075985,75:155E75,100:312E81&text=ORTHOSIS&fontSize=58&fontColor=FFFFFF&fontAlign=left&fontAlignY=43&desc=AI-POWERED%20ADAPTIVE%20REHABILITATION&descAlign=left&descAlignY=70&descSize=13" width="100%"/>
+<img src="./assets/orthosis.png" width="100%" alt="AI-powered adaptive rehabilitation orthosis"/>
 
 </div>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+### ORTHOSIS / 001
 
-### Intelligence for human recovery.
+**AI-Powered Adaptive Rehabilitation Orthosis**
 
-An AI-powered adaptive rehabilitation orthosis designed to analyse gait patterns and estimate the assistance required during movement.
+An intelligent wearable rehabilitation system designed to analyse gait patterns and estimate the assistance required during movement.
 
-The system combines wearable motion sensing with temporal deep learning to explore personalised rehabilitation support.
+The project combines motion sensing and temporal deep learning to explore personalised rehabilitation support.
 
-**System architecture**
-
-- BNO085-based motion sensing
-- CNN–LSTM assistance-need prediction
-- Gait pattern analysis
-- Planned adaptive mechanical support
-
-</td>
-<td width="45%" valign="middle" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:071A2E,100:164E63&text=PERCEIVE&fontSize=25&fontColor=FFFFFF&desc=MOTION%20SENSING&descSize=11&descAlignY=75" width="95%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:101B3D,100:4338CA&text=LEARN&fontSize=25&fontColor=FFFFFF&desc=TEMPORAL%20INTELLIGENCE&descSize=11&descAlignY=75" width="95%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:25123B,100:7E22CE&text=ADAPT&fontSize=25&fontColor=FFFFFF&desc=PERSONALISED%20SUPPORT&descSize=11&descAlignY=75" width="95%"/>
-
-</td>
-</tr>
-</table>
+| SYSTEM COMPONENT | TECHNOLOGY |
+|:--|:--|
+| Motion sensing | BNO085 IMU |
+| Temporal modelling | CNN–LSTM |
+| Movement analysis | Gait features |
+| Physical integration | Adaptive orthosis prototype |
 
 <div align="center">
 
-`EMBODIED AI`　 `HEALTHCARE ROBOTICS`　 `DEEP LEARNING`
+`EMBODIED AI` · `HEALTHCARE ROBOTICS` · `ADAPTIVE INTELLIGENCE`
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 PROJECT ARCHIVE                -->
-<!-- ═══════════════════════════════════════════════ -->
-
 <div align="center">
 
-<sub>03 / SELECTED BUILDS</sub>
+<sub>03 — PROJECT ARCHIVE</sub>
 
-# THE PROJECT VAULT
+# EXPERIMENTS IN INTELLIGENCE
 
-<sub>EXPERIMENTS IN INTELLIGENCE ACROSS DIFFERENT DOMAINS</sub>
+<sub>DIFFERENT DOMAINS. ONE ENGINEERING MINDSET.</sub>
 
 </div>
 
@@ -142,24 +117,24 @@ The system combines wearable motion sensing with temporal deep learning to explo
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:160D32,45:312E81,100:7C3AED&text=VIRO&fontSize=45&fontColor=FFFFFF&fontAlign=left&fontAlignY=43&desc=BIOLOGICAL%20INTELLIGENCE&descAlign=left&descAlignY=72&descSize=11" width="100%"/>
+<img src="./assets/viro.png" width="100%" alt="VIRO protein interaction visualization"/>
 
-### 01 / VIRO
+### 002 / VIRO
 
 **Human–Virus Protein Interaction Prediction**
 
 An ML-based system for predicting protein interactions using biological sequence features and Random Forest classification.
 
-`BIOINFORMATICS` `UNIPROT` `RANDOM FOREST`
+`BIOINFORMATICS` `UNIPROT` `MACHINE LEARNING`
 
-<a href="https://github.com/KevinVargheseKV">EXPLORE PROJECT ↗</a>
+<a href="https://github.com/KevinVargheseKV">VIEW PROJECT ↗</a>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:30102C,45:831843,100:BE185D&text=CALM%20MIND&fontSize=34&fontColor=FFFFFF&fontAlign=left&fontAlignY=43&desc=HUMAN-CENTRED%20AI&descAlign=left&descAlignY=72&descSize=11" width="100%"/>
+<img src="./assets/calm-mind.png" width="100%" alt="Calm Mind AI project artwork"/>
 
-### 02 / CALM MIND
+### 003 / CALM MIND
 
 **AI-Assisted Mental Wellness**
 
@@ -167,127 +142,72 @@ An AI-powered mental wellness project focused on accessible self-help resources 
 
 `GENERATIVE AI` `NLP` `PYTHON`
 
-<a href="https://github.com/KevinVargheseKV">EXPLORE PROJECT ↗</a>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:071A2E,50:164E63,100:0F766E&text=THE%20NEXT%20EXPERIMENT&fontSize=29&fontColor=FFFFFF&desc=CONTINUOUSLY%20BUILDING%20%2F%20LEARNING%20%2F%20EXPLORING&descSize=10&descAlignY=75" width="100%"/>
-
-<a href="https://github.com/KevinVargheseKV?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9"/>
-</a>
+<a href="https://github.com/KevinVargheseKV">VIEW PROJECT ↗</a>
 
 </td>
 </tr>
 </table>
 
----
-
-<!-- ═══════════════════════════════════════════════ -->
-<!--                  TECH STACK                    -->
-<!-- ═══════════════════════════════════════════════ -->
-
 <div align="center">
 
-<sub>04 / TECHNICAL CAPABILITIES</sub>
-
-# THE ENGINEERING STACK
-
-### ARTIFICIAL INTELLIGENCE
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"/>
-
-`Machine Learning`　 `Deep Learning`　 `Computer Vision`　 `NLP`
-
-<br/>
-
-### ROBOTICS & EMBEDDED SYSTEMS
-
-<img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,linux&theme=dark"/>
-
-`Sensor Integration`　 `Embedded Systems`　 `Robotics`
-
-<br/>
-
-### DEVELOPMENT & TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css&theme=dark"/>
-
-`Software Engineering`　 `Prototyping`　 `Version Control`
+<a href="https://github.com/KevinVargheseKV?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-080B16?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                 EXPERIENCE                     -->
-<!-- ═══════════════════════════════════════════════ -->
-
 <div align="center">
 
-<sub>05 / EXPERIENCE & LEADERSHIP</sub>
+<sub>04 — TECHNICAL DNA</sub>
 
-# BUILDING BEYOND THE CODE
+# THE ENGINEERING STACK
 
 </div>
 
 <table>
 <tr>
-<td width="18%" align="center">
+<td width="50%" align="center" valign="top">
 
-`INDUSTRY`
+**ARTIFICIAL INTELLIGENCE**
 
-</td>
-<td>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"/>
 
-**AI/ML Intern — Safcurl Tech Pvt. Ltd.**
-
-Applied AI/ML development and practical engineering experience.
+Machine Learning · Deep Learning · Computer Vision · NLP
 
 </td>
-</tr>
-<tr>
-<td align="center">
+<td width="50%" align="center" valign="top">
 
-`EDUCATION`
+**ROBOTICS & EMBEDDED**
 
-</td>
-<td>
+<img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,linux&theme=dark"/>
 
-**Computer Instructor — Sprint Comp Education**
-
-Teaching computer science concepts and technical fundamentals.
+Embedded Systems · Sensor Integration · Robotics
 
 </td>
 </tr>
 <tr>
-<td align="center">
+<td width="50%" align="center" valign="top">
 
-`LEADERSHIP`
+**DEVELOPMENT**
 
-</td>
-<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css&theme=dark"/>
 
-**Chair — IEEE RAS SCT Chapter**
-
-Student leadership and technical community engagement.
+Software Engineering · Prototyping · Version Control
 
 </td>
-</tr>
-<tr>
-<td align="center">
+<td width="50%" align="center" valign="top">
 
-`COMMUNITY`
+**RESEARCH INTERESTS**
 
-</td>
-<td>
+`EMBODIED AI`
 
-**Student Representative — IEEE RAS Kerala Chapter**
+`ADAPTIVE SYSTEMS`
 
-Contributing to the robotics and automation student community.
+`ASSISTIVE ROBOTICS`
+
+`HUMAN–ROBOT INTERACTION`
 
 </td>
 </tr>
@@ -295,21 +215,38 @@ Contributing to the robotics and automation student community.
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                GITHUB ANALYTICS                -->
-<!-- ═══════════════════════════════════════════════ -->
+<div align="center">
+
+<sub>05 — EXPERIENCE & LEADERSHIP</sub>
+
+# BEYOND THE WORKBENCH
+
+</div>
+
+| DOMAIN | EXPERIENCE |
+|:--|:--|
+| INDUSTRY | **AI/ML Intern** — Safcurl Tech Pvt. Ltd. |
+| EDUCATION | **Computer Instructor** — Sprint Comp Education |
+| IEEE RAS | **Chair** — IEEE RAS SCT Chapter |
+| IEEE RAS | **Student Representative** — IEEE RAS Kerala Chapter |
+
+---
 
 <div align="center">
 
-<sub>06 / LIVE DEVELOPMENT TELEMETRY</sub>
+<sub>06 — DEVELOPMENT TELEMETRY</sub>
 
 # GITHUB COMMAND CENTER
 
-<img src="https://github-readme-stats.vercel.app/api?username=KevinVargheseKV&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=050816&title_color=67E8F9&icon_color=A78BFA&text_color=DCE7F5" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KevinVargheseKV&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=080D19&title_color=67E8F9&icon_color=A78BFA&text_color=DCE7F5" height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVargheseKV&layout=compact&hide_border=true&bg_color=050816&title_color=67E8F9&text_color=DCE7F5" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVargheseKV&layout=compact&hide_border=true&bg_color=080D19&title_color=67E8F9&text_color=DCE7F5" height="175"/>
 
-<img src="https://streak-stats.demolab.com?user=KevinVargheseKV&hide_border=true&background=050816&ring=67E8F9&fire=F472B6&currStreakLabel=67E8F9&sideLabels=DCE7F5&dates=94A3B8" width="80%"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=KevinVargheseKV&hide_border=true&background=080D19&ring=67E8F9&fire=F472B6&currStreakLabel=67E8F9&sideLabels=DCE7F5&dates=94A3B8" width="80%"/>
+
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=KevinVargheseKV&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
 
@@ -317,39 +254,27 @@ Contributing to the robotics and automation student community.
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                CONTRIBUTION SNAKE               -->
-<!-- ═══════════════════════════════════════════════ -->
-
 <div align="center">
 
-<sub>07 / CONTRIBUTION FOOTPRINT</sub>
+<sub>07 — CONTRIBUTION FOOTPRINT</sub>
 
 # EVERY COMMIT LEAVES A TRACE.
 
-<img src="https://raw.githubusercontent.com/KevinVargheseKV/KevinVargheseKV/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/KevinVargheseKV/KevinVargheseKV/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════ -->
-<!--                     FOOTER                     -->
-<!-- ═══════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0891B2,45:312E81,100:030712" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0891B2,45:312E81,100:030712" width="100%"/>
 
-# THE FUTURE OF INTELLIGENCE IS EMBODIED.
+### THE FUTURE OF INTELLIGENCE IS EMBODIED.
 
-<sub>THINK DEEPER　/　BUILD SMARTER　/　CREATE IMPACT</sub>
+**Think deeper. Build smarter. Create impact.**
 
-<br/><br/>
-
-**KEVIN VARGHESE**
-
-`AI` × `ROBOTICS` × `RESEARCH`
+<sub>KEVIN VARGHESE / AI × ROBOTICS × RESEARCH</sub>
 
 <br/>
 
