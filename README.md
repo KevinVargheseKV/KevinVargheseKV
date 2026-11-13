@@ -2,7 +2,7 @@
 
 <!-- HERO -->
 
-<img src="./assets/hero.png" width="100%" alt="Kevin Varghese - AI and Robotics"/>
+<img src="./assets/hero.jpg" width="100%" alt="Kevin Varghese - AI and Robotics"/>
 
 <br/>
 
@@ -132,7 +132,7 @@ An ML-based system for predicting protein interactions using biological sequence
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/calm-mind.png" width="100%" alt="Calm Mind AI project artwork"/>
+<img src="./assets/calm-mind.jpg" width="100%" alt="Calm Mind AI project artwork"/>
 
 ### 003 / CALM MIND
 
