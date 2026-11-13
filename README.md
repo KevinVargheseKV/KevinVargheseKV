@@ -1,97 +1,61 @@
- <div align="center">
-
-# KEVIN VARGHESE
-
-### AI / ML Engineer · Robotics Enthusiast · CSE Student
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+intelligent+systems;Exploring+Embodied+AI+%26+Robotics;Turning+ideas+into+real-world+solutions;Learning.+Building.+Innovating." alt="Typing SVG" />
-</a>
-
-<p>
-  <a href="https://github.com/KevinVargheseKV"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kevin-varghese-063967340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Connect-00D9FF?style=for-the-badge&logo=minutemailer&logoColor=black"/></a>
-</p>
-
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAB&center=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Kevin+Varghese!;AI%2FML+Engineer+%7C+LLM+Builder;Python+%7C+LangChain+%7C+RAG+%7C+Gradio" alt="Typing SVG" />
+</h1>
 
 ---
 
-### `01 / ABOUT ME`
+## 🙋‍♂️ About Me
 
-I'm a Computer Science Engineering student passionate about building intelligent systems at the intersection of **Artificial Intelligence, Machine Learning, and Robotics**.
-
-- Developing AI-driven solutions for real-world challenges.
-- Exploring Embodied AI and intelligent assistive systems.
-- Interested in robotics, computer vision, and applied machine learning.
-- Active in the IEEE Robotics and Automation Society.
-
----
-
-### `02 / TECH STACK`
+- 🚀 I'm currently working on **AI, ML & LLM** projects  
+- 🌱 Learning **RAG (Retrieval-Augmented Generation)**, **AI Algorithms**, and **LangChain**  
+- 🤝 Looking to collaborate on **AI/ML/LLM-based internships or open-source**  
+- 💬 Ask me about: **Python, C++, Java, SQL, LangChain, Gradio, Gemini API**  
+- ⚡ Fun fact: *I enjoy coding more than watching movies!*  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java, pytorch,tensorflow,opencv,sklearn&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,arduino,raspberrypi,mysql&theme=dark" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
 
-### `03 / SELECTED PROJECTS`
 
-**01 — AI-Powered Adaptive Rehabilitation Orthosis**
 
-Intelligent gait analysis and adaptive rehabilitation support using wearable sensor data and deep learning.
+## 🧰 Tech Stack
 
-`Python` `CNN-LSTM` `BNO085` `Robotics`
-
-**02 — VIRO | Human–Virus Protein Interaction**
-
-Machine learning-based prediction of interactions between human and viral proteins using sequence-derived features.
-
-`Python` `Machine Learning` `Bioinformatics` `Random Forest`
-
-**03 — Calm Mind**
-
-An AI-powered mental wellness assistant focused on accessible self-help and supportive conversations.
-
-`Python` `Generative AI` `NLP`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
 
 ---
 
-### `04 / GITHUB ANALYTICS`
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KevinVargheseKV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&rank_icon=github" />
+## 🏷 Badges
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinVargheseKV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" />
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinVargheseKV&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)  
+![Gradio](https://img.shields.io/badge/Gradio-FF6F61?style=for-the-badge&logo=gradio&logoColor=white)  
+![GeminiAPI](https://img.shields.io/badge/Gemini_API-blue?style=for-the-badge)  
+![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-brightgreen?style=for-the-badge)
 
 ---
 
-### `05 / CONTRIBUTION ACTIVITY`
+## 📫 Connect with Me
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KevinVargheseKV/KevinVargheseKV/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-varghese-063967340/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-informational?style=for-the-badge&logo=github)](https://github.com/KevinVargheseKV)
 
 ---
 
-<div align="center">
+## 🐍 My Contributions Snake
 
-### `BUILD • LEARN • INNOVATE`
-
-<img src="https://komarev.com/ghpvc/?username=KevinVargheseKV&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
-
-<sub>Exploring possibilities through intelligent technology.</sub>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinVargheseKV/KevinVargheseKV/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinVargheseKV/KevinVargheseKV/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/KevinVargheseKV/KevinVargheseKV/output/github-contribution-grid-snake.svg" />
+</picture>
